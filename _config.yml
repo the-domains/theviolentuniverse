@@ -1,4 +1,4 @@
-typography_spectrum: 0.969534
+layout_spectrum: 0.9784946
 color:
   saturation: 0.7222222
   brandStrength: 0.1071106
@@ -10,7 +10,5 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-layout_spectrum: 0.9784946
+typography_spectrum: 0.969534
 name: Theviolentuniverse
-title: The Violent Universe
-description: Music / Photography
